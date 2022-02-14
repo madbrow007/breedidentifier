@@ -11,7 +11,7 @@ A simple alternative to manually searching for the breed of a dog.
 ### Data
 The data is a small subset from Kaggle's "Dog Breed Identification": https://www.kaggle.com/c/dog-breed-identification/overview.
 
-There are 3 labeled dog breeds instead of 120 for right now.
+There are 3 labeled dog breeds rather than 120 at this moment.
 
 ### Evaluation
 The evaluation is a file with prediction probablilities for each dog breed of each test image.
