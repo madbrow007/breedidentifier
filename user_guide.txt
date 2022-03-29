@@ -1,0 +1,24 @@
+User Guide 
+
+COLAB NOTEBOOK INSTRUCTIONS:
+1.	Download and unzip the users_start_here folder from this google drive link: https://drive.google.com/file/d/1x57x19_I8D98qPpBpC_iLoN90z-5jamc/view?usp=sharing
+2.	Go to: https://colab.research.google.com
+3.	Sign in with a google account.
+4.	Click FILE-> UPLOAD NOTEBOOK -> make sure you are on the UPLOAD tab -> CHOOSE FILE.
+5.	Navigate to the downloaded "users_start_here" folder.
+6.	Click "code", then double-click "BreedIdentifier_User_Copy.ipynb".
+7.	The "Connect" button on the right side of the page and wait until you see a green check mark.   
+8.	Click the folder icon on the left side of the page. (See figure)
+9.	Under "Files", click on the folder up with an up arrow   
+10.	Right-click on the “content” folder and select “upload”.
+11.	Navigate to the downloaded "users_start_here" folder.
+12.	Click on the "code" folder and then double-click the zipped "breedidentifier_copy" folder.
+13.	Click "okay" to any runtime session warning message. NOTE: the zip file might take a minute to download, the orange loading circle towards the bottom left of the page will disappear when the download is complete. 
+14.	When the download is complete, click RUNTIME -> RUN ALL (it’s important to only click run all once), at the top of the page.
+15.	When the cell at the very bottom of the notebook is loading in a circular motion with a SOLID, white, or black colored line (NOT DASHED), NAVIGATE to https://breeddetector.anvil.app/    
+
+WEB APP INSTRUCTIONS:
+1.)	Click “UPLOAD A DOG IMAGE”
+2.)	Upload a JPEG image. There are sample dog images in users_start_here > code > sample dog images folder
+3.)	Click “DETECT BREED”
+4.)	And that is it! The model’s predicted dog breed will be displayed on the dashboard!
