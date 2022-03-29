@@ -1,4 +1,5 @@
 # breedidentifier
+To test this model for yourself, view the user guide!
 
 ## Dog Breed classification 🐕
 This notebook builds a multi-class dog breed image classifier with TensorFlow 2.7 and TensorFlow Hub .12.
@@ -20,3 +21,8 @@ https://www.kaggle.com/c/dog-breed-identification/overview/evaluation
 
 ### Features
 The data has 60 images in the training set and 60 in the test set of about 6 different dog breeds.
+
+### GUI
+Anvil was used to create a user interface for the notebooks functions and trained model
+![visualizations](https://user-images.githubusercontent.com/47118983/160707344-418e1da1-e965-42ef-9a6e-f4b616ef193e.PNG)
+
