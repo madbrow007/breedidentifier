@@ -23,6 +23,6 @@ https://www.kaggle.com/c/dog-breed-identification/overview/evaluation
 The data has 60 images in the training set and 60 in the test set of about 6 different dog breeds.
 
 ### GUI
-Anvil was used to create a user interface for the notebooks functions and trained model
+Anvil was used to create a user interface for the notebook's functions and trained model
 ![visualizations](https://user-images.githubusercontent.com/47118983/160707344-418e1da1-e965-42ef-9a6e-f4b616ef193e.PNG)
 
