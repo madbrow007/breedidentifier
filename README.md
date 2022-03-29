@@ -1,5 +1,5 @@
 # breedidentifier
-To test this model for yourself, view the user guide!
+To use this model yourself, view the user guide for setup instructions!
 
 ## Dog Breed classification 🐕
 This notebook builds a multi-class dog breed image classifier with TensorFlow 2.7 and TensorFlow Hub .12.
